@@ -1,0 +1,6 @@
+framework module Pods_Bite_a_licious_login {
+  umbrella header "Pods-Bite-a-licious_login-umbrella.h"
+
+  export *
+  module * { export * }
+}
